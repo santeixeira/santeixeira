@@ -32,12 +32,12 @@
       </p>
     </div>
     <div>
-      <ul> 
-        <li href="#">Primarily worked on front-end standard languages, Bootstrap, JQuery and React;</li>
-        <li href="#">Switching to back-end experiences, worked with Python, C# and Node.js</li>
-        <li href="#">Experienced with SQL Server and PostgreSQL databases; </li>
-        <li href="#">Worked with NoSQL Databases, such as MongoDB; </li>
-      </ul>
+      <dl> 
+        <dd href="#">Primarily worked on front-end standard languages, Bootstrap, JQuery and React;</dd>
+        <dd href="#">Switching to back-end experiences, worked with Python, C# and Node.js</dd>
+        <dd href="#">Experienced with SQL Server and PostgreSQL databases; </dd>
+        <dd href="#">Worked with NoSQL Databases, such as MongoDB; </dd>
+      </dl>
     </div>
   </section>
   </br>
