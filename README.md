@@ -18,6 +18,9 @@
   </br>
   <section id="bloco">
     <div align="center">
+    <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+    <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    
       <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
       <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img align="center" height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
